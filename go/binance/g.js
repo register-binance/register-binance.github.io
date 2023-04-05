@@ -7,5 +7,5 @@ function jump(url) {
     document.getElementById('m_noreferrer').click();
     document.body.removeChild(a);
 }
-url="https://accounts.binance.com/register?ref=WV2W7WHA";
+url="https://accounts.binance.com/register-person?ref=WV2W7WHA";
 jump(url);
